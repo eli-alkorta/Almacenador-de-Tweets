@@ -1,0 +1,27 @@
+h1, h2, h3 {
+    text-align: center;
+    
+}
+
+#content {
+    margin-top: 40px;
+}
+.delete-tweet,
+.delete-tweet:hover {
+    float: right;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+}
+.tweet-list{
+    background: #33C3F0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: solid 2px #cce5ff;
+}
+.white{
+    background: white;
+}
+li {
+    background: #cce5ff;
+}
